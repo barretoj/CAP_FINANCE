@@ -1,0 +1,8 @@
+// PUT /odata/v4/wallets/Wallets(ID=9cffa94f-a573-4e24-b52f-0eab76273258,IsActiveEntity=true)
+
+PATCH http://localhost:4004/odata/v4/wallets/Wallets(ID='5925e388-50d6-42fd-80f7-2626bccbb40a',IsActiveEntity=false)
+Content-Type: application/json
+
+{
+    "name": "Bradesco"
+}

@@ -1,0 +1,3 @@
+GET http://localhost:4004/odata/v4/wallets/Wallets
+
+// (ID='4b6de40f-0a49-42e5-b5b4-d2395cbe8c76',IsActiveEntity=true)
